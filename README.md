@@ -1,16 +1,8 @@
-### Plan
-
-1. **Introduction**: Briefly describe the purpose of the [`BLE.tsx`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FVolumes%2FMac%2FProjects%2Fble_scanning_reactnative%2FBLE.tsx%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Volumes/Mac/Projects/ble_scanning_reactnative/BLE.tsx") file.
-2. **Features**: List the main features of the BLE component.
-3. **Installation**: Provide instructions on how to install the necessary dependencies.
-4. **Usage**: Explain how to use the BLE component in a React Native project.
-5. **Code Overview**: Provide a high-level overview of the code structure.
-6. **License**: Include a section for the license.
 
 ### README.md
 
-```markdown
-# BLE Component
+
+# BLE Demo
 
 This repository contains a React Native component for managing Bluetooth Low Energy (BLE) devices using the `react-native-ble-manager` library. The component allows scanning, connecting, and interacting with BLE peripherals.
 
@@ -24,7 +16,8 @@ This repository contains a React Native component for managing Bluetooth Low Ene
 
 ## Sample
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
+![](https://github.com/TOPSinfo/ble_scanning_reactnative/blob/main/blemaneger.gif)
 
 ## Installation
 
